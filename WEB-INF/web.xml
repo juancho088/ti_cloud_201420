@@ -5,7 +5,6 @@
     "http://java.sun.com/j2ee/dtds/web-app_2.2.dtd">
 
 <web-app>
-
   <welcome-file-list id="WelcomeFileList">
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
