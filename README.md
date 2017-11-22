@@ -11,8 +11,6 @@ You can clone this sample by the following command:
 git clone https://hub.jazz.net/git/communitysample/env-javaweb
 ```
 
-
-
 Running this sample
 ---
 
