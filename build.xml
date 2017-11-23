@@ -57,5 +57,4 @@
     <war destfile="${artifact_dir}/${warname}" basedir="bin" />
   </target>
 
-  
 </project>
