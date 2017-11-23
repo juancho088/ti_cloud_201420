@@ -12,7 +12,6 @@
   <condition property="RTCBuildResultUUID" value="${env.RTCBuildResultUUID}">
     <isset property="env.RTCBuildResultUUID" />
   </condition>
-  
   <path id="classpathDir">
     <pathelement location="bin" />
   </path>
